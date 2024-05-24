@@ -32,5 +32,13 @@
     "webpack": "^5.91.0",
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^5.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pldhiman/speculation-rules.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pldhiman/speculation-rules/issues"
+  },
+  "homepage": "https://github.com/pldhiman/speculation-rules#readme"
 }
