@@ -1,6 +1,6 @@
 {
   "name": "speculation-rules",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "The Speculation Rules API is designed to improve performance for future navigations. It targets document URLs rather than specific resource files, and so makes sense for multi-page applications (MPAs) rather than single-page applications (SPAs).",
   "main": "dist/index.js",
   "scripts": {
@@ -33,6 +33,16 @@
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^5.0.4"
   },
+  "keywords": [
+    "seo",
+    "speculation-rules",
+    "react",
+    "nextjs",
+    "prerender",
+    "prefetch",
+    "react-speculation-rules",
+    "nextjs-speculation-rules"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pldhiman/speculation-rules.git"
