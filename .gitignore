@@ -1,0 +1,31 @@
+# package directories
+node_modules
+jspm_packages
+build
+.next
+.serverless_nextjs
+# Serverless directories
+.serverless
+**/.DS_Store
+public/service-worker.js
+.DS_Store
+package-lock.json
+**/.DS_Store
+src/.DS_Store
+yarn.lock.DS_Store
+.DS_Store
+public/workbox-*.js
+public/workbox-*.js.map
+public/sw.js
+public/fallback-*.js
+public/precache.*.js
+public/sw.js.map
+public/worker-*.js
+public/sw.js.map*
+public/sitemap-0.xml
+.vscode/settings.json
+.env
+bun.lockb
+public/~partytown
+bitbucket-pipelines.yml
+
