@@ -16,8 +16,10 @@ This component uses the two props i.e
 
 
 
-##### Case:1  Prerender Speculation on all the href's in the page
+### Case:1  Prerender Speculation on all the href's in the page
+
 For pages directory : use in _app.js
+
 For App Directory : use in the root layout.js
 
 ```jsx
@@ -25,8 +27,10 @@ import Speculationrules from "speculation-rules";
 
 <Speculationrules />
 ```
+
 This is the default Speculations configuration.
-```json
+
+```js
 {
     prerender: [{
       where: {
@@ -43,10 +47,10 @@ This is the default Speculations configuration.
   }
 ```
 
-##### Case:2  Custom Speculation Rules
+### Case:2  Custom Speculation Rules
 for custom rules
 
-```json
+```jsx
 <Speculationrules 
     prerenderRules={[
       {
