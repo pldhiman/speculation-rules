@@ -1,7 +1,7 @@
 {
-  "name": "react-web-slider",
-  "version": "1.0.1",
-  "description": "react web native slider",
+  "name": "speculation-rules",
+  "version": "1.0.0",
+  "description": "The Speculation Rules API is designed to improve performance for future navigations. It targets document URLs rather than specific resource files, and so makes sense for multi-page applications (MPAs) rather than single-page applications (SPAs).",
   "main": "dist/index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
